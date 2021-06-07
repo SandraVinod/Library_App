@@ -1,0 +1,24 @@
+{
+  "name": "library-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sandra V",
+  "license": "ISC",
+  "dependencies": {
+    "alert": "^5.0.10",
+    "body-parser": "^1.19.0",
+    "ejs": "^3.1.6",
+    "express": "^4.17.1",
+    "formidable": "^1.2.2",
+    "mongoose": "^5.12.12",
+    "multer": "^1.4.2",
+    "popups": "^1.1.3",
+    "sweetalert": "^2.1.2",
+    "sweetalert2": "^11.0.16"
+  }
+}
